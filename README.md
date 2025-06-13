@@ -1,6 +1,6 @@
 # Ischemic-stroke-prediction-using-hybrid-DL-models
 
-This project focuses on predicting ischemic stroke by combining the strengths of pretrained models.
+This project focuses on predicting ischemic stroke by combining the strengths of pretrained models for higher accuracy and better performance.
 
 
 Flow of the project:
